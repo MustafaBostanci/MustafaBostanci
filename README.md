@@ -1,9 +1,12 @@
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" width="350" height="170">
+
 ### Hi, Welcome To My Github Profile <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
 
 I'm Mustafa, I'm a Full-Stack developer with a deep love for creating beautiful and useful products. I sharing my projects here. Currently I’m focus on web application development. Besides, from time to time, I develop mobile applications with React Native.
 > " Graduated from Eastern Mediterranean University / IT "
 
 <h3 align="center">Reach Me:</h3>
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=MustafaBostanci&color=green" alt="MustafaBostanci :: Profile Stats"></a>
 <a href="mailto:bostanci38mustafa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bostanci38mustafa@gmail.com-blue?style=flat&logo=gmail"></a>
@@ -17,7 +20,7 @@ I'm Mustafa, I'm a Full-Stack developer with a deep love for creating beautiful 
 
 <h2 align="center">My GitHub Stats :</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MustafaBostanci&show_icons=true&theme=tokyonight" width="450" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=MustafaBostanci&show_icons=true&theme=tokyonight" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaBostanci&layout=compact&theme=tokyonight" height="180">
   
 </p>
