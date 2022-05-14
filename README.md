@@ -19,9 +19,11 @@ I'm Mustafa, I'm a Full-Stack developer with a deep love for creating beautiful 
 
 
 <h2 align="center">My GitHub Stats :</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MustafaBostanci&show_icons=true&theme=tokyonight" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaBostanci&layout=compact&theme=tokyonight" height="180">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=MustafaBostanci&show_icons=true&theme=tokyonight" width="450" height="180"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaBostanci&layout=compact&theme=tokyonight" height="180">
   
-</p>
+
+
+
+
 
