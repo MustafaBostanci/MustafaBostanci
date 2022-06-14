@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" width="350" height="170">
 
-### Hi, Welcome To My Github Profile 👋
+### Hi, Welcome To My Github Profile 👋 👋 👋
 
 I'm Mustafa, I'm a junior web application developer with a deep love for creating beautiful and useful products. I sharing my projects here. I’m a technology enthusiast. Besides, I develop mobile applications with React Native from time to time.
 > " Graduated from Eastern Mediterranean University / IT "
@@ -22,7 +22,7 @@ I'm Mustafa, I'm a junior web application developer with a deep love for creatin
 
 <h2 align="center">My GitHub Stats :</h2>
 
-  |<img src="https://github-readme-stats.vercel.app/api?username=MustafaBostanci&show_icons=true&theme=tokyonight" width="450" height="180">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaBostanci&theme=radical" width="450" height="180">|
+  |<img src="https://github-readme-stats.vercel.app/api?username=MustafaBostanci&show_icons=true&theme=tokyonight" width="450" height="180">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaBostanci&layout=compact&theme=tokyonight" height="180">|
 |---|---|
 
 
