@@ -10,7 +10,6 @@ I'm Mustafa, I'm a junior web application developer with a deep love for creatin
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=MustafaBostanci&color=green" alt="MustafaBostanci :: Profile Stats"></a>
 <a href="mailto:bostanci38mustafa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bostanci38mustafa@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/mustafa-bostanci" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@MustafaBostanci-blue?style=flat&logo=linkedin"></a>
 <a href="https://www.instagram.com/mustafabosst/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mustafabosst-black?style=flat-square&logo=instagram"></a>
 </p>
 
